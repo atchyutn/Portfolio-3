@@ -33,7 +33,7 @@
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Books", "url": "/books" }
       ]
     },
     "featureToggles": {

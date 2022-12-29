@@ -1,5 +1,5 @@
 ---
-sectionId: imprint
+sectionId: Books
 ---
 
 #### Information pursuant to § 5 TMG
