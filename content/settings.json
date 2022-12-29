@@ -17,18 +17,19 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "ATCHYUT N" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "Blog", "url": "https://atchyutn.medium.com/" },
+        { "label": "Skills", "url": "/#skills" },
+        { "label": "Projects", "url": "/#projects" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "https://drive.google.com/file/d/1wrWQWYCdnNCJr8M4oaqVKn1GxjvSddB-/view?usp=share_link"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
