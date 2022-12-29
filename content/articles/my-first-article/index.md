@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "This is an exemplary article for the blog."
 description: "This description will be used for the article listing and search results on Google."
 date: "2021-05-28"
@@ -71,4 +71,4 @@ Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility dui et voices Stonewall In
 
 ![This is the alt tag.](../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg)
 
-Vel herstory Bossy sit ac xe she ut Tina Anselmi woman Marina Abramovich Spiritday all cultural Lili Elbe lorem in sexuality Transformation lgbt freedom et ac sem Sem we are everywhere Notion supporting androgyny dui ut dance Simone de Beauvoir eu sem sit Inge Schonöethal Feltrinelli female gaze ac Franca viola.
+Vel herstory Bossy sit ac xe she ut Tina Anselmi woman Marina Abramovich Spiritday all cultural Lili Elbe lorem in sexuality Transformation lgbt freedom et ac sem Sem we are everywhere Notion supporting androgyny dui ut dance Simone de Beauvoir eu sem sit Inge Schonöethal Feltrinelli female gaze ac Franca viola. -->
