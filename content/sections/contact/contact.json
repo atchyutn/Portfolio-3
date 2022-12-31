@@ -2,6 +2,10 @@
   "name": "Atchyut Nagabhairava",
   "email": "email@atchyutn.com",
   "description": "",
+  "image": {
+    "src": "/",
+    "alt": ""
+  },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true
