@@ -2,10 +2,6 @@
   "name": "Atchyut Nagabhairava",
   "email": "email@atchyutn.com",
   "description": "",
-  "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
-  },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true
